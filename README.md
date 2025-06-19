@@ -1,5 +1,5 @@
 # Website Version of FGCU Book Study Rooms Program
-Check out the code that started the project at [FGCU-Book-StudyRooms](#https://github.com/jacks-somewhere/FGCU-Book-StudyRooms).
+Check out the code that started the project at [FGCU-Book-StudyRooms](https://github.com/jacks-somewhere/FGCU-Book-StudyRooms).
 
 [Scope](#Scope)
 
